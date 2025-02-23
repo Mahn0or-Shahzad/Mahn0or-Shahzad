@@ -7,7 +7,7 @@
 Development & Programming Basics**
 - 📫 Connect with Me
 - 🔗 LinkedIn: https://www.linkedin.com/in/mahnoor-shahzad-a39a55348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 🔗 Github:https:https://github.com/Mahn0or-Shahzad
+- 🔗 Github:
 - 
 - 🌟 Fun fact:
 - I enjoy **sopving coding challenges
